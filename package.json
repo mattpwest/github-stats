@@ -1,0 +1,15 @@
+{
+  "name": "github-stats",
+  "version": "1.0.0",
+  "description": "Script for compiling statistics on Github commits by Entelect users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Van Der Westhuizen",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "latest",
+    "github": "^12.0.7"
+  }
+}

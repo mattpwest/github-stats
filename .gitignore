@@ -1,0 +1,11 @@
+# Installed node modules
+node_modules
+
+# IntelliJ files
+.idea
+
+# Ignore sensitive config data
+.config.json
+
+# Ignore result files
+*.csv
